@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書近指
-#+DATE: 2017-03-23 10:35:19.264254
+#+DATE: 2017-03-23 10:35:19.384198
 #+PROPERTY: ID KR1h0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 19
 <pb:KR1h0054_WYG_019-1a>¶
 　　欽定四庫全書¶
@@ -362,7 +362,7 @@
 然就食所謂知我而無禮也使饑餓於我土地自與為¶
 食於路者不同¶
 ¶
-　　舜發𤱶畝章¶
+　　舜發畎畝章¶
 ¶
 　　人毎以困窮自阻不知玉汝於成正在困窮厯觀從古¶
 聖賢發跡的那一箇不自困窮拂逆中來全在人之善¶
